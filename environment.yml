@@ -1,0 +1,6 @@
+name: Practice
+channels:
+    - conda-forge
+dependencies:
+    - plumbum
+    - pytest
