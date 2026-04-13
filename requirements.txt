@@ -1,2 +1,2 @@
 plumbum==1.6.3
-pytest==3.4.1
+pytest==9.0.3
